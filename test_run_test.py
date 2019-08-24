@@ -1,0 +1,57 @@
+from unittest import TestCase
+
+
+class TestRun_test(TestCase):
+    def test_run_test(self):
+        self.assertEqual('a','a')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
